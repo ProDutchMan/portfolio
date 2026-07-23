@@ -1,6 +1,6 @@
 [build]
-  command = "vite build"
+  command = "solid-start build"
   functions = "netlify/functions"
-  publish = "dist"
+  publish = "netlify"
 
   ## more info on configuring this file: https://www.netlify.com/docs/netlify-toml-reference/
